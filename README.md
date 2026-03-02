@@ -34,7 +34,7 @@ Para alcançar interatividade foram aplicadas as seguintes tecnologias:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica e mapeamento de imagens.
 * **CSS3:** Design responsivo, posicionamento (`relative/absolute`) e animações de transição.
@@ -42,7 +42,7 @@ Para alcançar interatividade foram aplicadas as seguintes tecnologias:
 
 ---
 
-## 💻 Como rodar o projeto
+##  Como rodar o projeto
 
 1. Faça o download ou clone este repositório.
 2. Certifique-se de que todas as pastas de imagens e vídeos estão no mesmo diretório.
