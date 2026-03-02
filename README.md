@@ -24,7 +24,8 @@ Para alcançar interatividade foram aplicadas as seguintes tecnologias:
 
 ### 4. Multimídia e Estilização Retro
 * **Termo Técnico:** `HTML5 Audio & Video API`.
-* **Como funciona:** * **Vídeo:** Inserido dentro de uma moldura de televisão antiga para um visual nostálgico.
+* **Como funciona:**
+    * **Vídeo:** Inserido dentro de uma moldura de televisão antiga para um visual nostálgico.
     * **Áudio:** Um rádio antigo funcional que permite ao usuário ouvir uma demonstração sonora, utilizando as tags nativas `<audio>` e `<video>`.
 
 ### 5. Formulário de Encomenda Inteligente
